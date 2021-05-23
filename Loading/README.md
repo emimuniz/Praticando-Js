@@ -1,0 +1,16 @@
+## 🏷️ Projetos em Javascript
+
+- [💡 BackgroundHexChange](https://emimuniz.github.io/Praticando-Js/BackgroundHexChange/index.html)
+- [💡 BorderRadiusPreviewer](https://emimuniz.github.io/Praticando-Js/BorderRadiusPreviewer/index.html)
+- [💡 CRUD](https://emimuniz.github.io/Praticando-Js/CRUD/index.html)
+- [💡 ChangeBackground](https://emimuniz.github.io/Praticando-Js/ChangeBackground/index.html)
+- [💡 ClearHair](https://emimuniz.github.io/Praticando-Js/ClearHair/index.html)
+- [💡 ConvertNumberBinaries](https://emimuniz.github.io/Praticando-Js/ConvertNumberBinaries/index.html)
+- [💡 Counter](https://emimuniz.github.io/Praticando-Js/Counter/index.html)
+- [💡 ImageSlider](https://emimuniz.github.io/Praticando-Js/ImageSlider/index.html)
+- [💡 Loading](https://emimuniz.github.io/Praticando-Js/Loading/index.html)
+- [💡 MotivationalPhrases](https://emimuniz.github.io/Praticando-Js/MotivationalPhrases/index.html)
+- [💡 PassMessage](https://emimuniz.github.io/Praticando-Js/PassMessage/index.html)
+- [💡 RandomQuotes](https://emimuniz.github.io/Praticando-Js/RandomQuotes/index.html)
+- [💡 SnakeGame](https://emimuniz.github.io/Praticando-Js/SnakeGame/index.html)
+- [💡 Tomorrowland](https://emimuniz.github.io/Praticando-Js/Tomorrowland/index.html) (Em construção)
